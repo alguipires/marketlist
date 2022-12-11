@@ -1,8 +1,8 @@
 # market-list
 Projeto da disciplina de web4 UTFPR, market-list: lista de compras de mercado com itens separados por seção do mercado.
-linguagens: ?
+linguagens: JEE, JS
 
-link protótipos das telas figma: ?
+link protótipos das telas figma: 
 
 
 Checklist
